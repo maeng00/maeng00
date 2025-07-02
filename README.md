@@ -23,6 +23,15 @@ Here are some ideas to get you started:
 
 <br />
 
+## 🏆 Awards 🏆
+- **[5th Place. Encouragement prize]** 2025 Bias-A-Thon: Bias Discovery Challenge
+- **[1st Place. Grand prize]** The 3rd 2024 SM@ COSSTHON
+- **[1st Place. Grand prize]** The 1st KASI-KAIST Astronomical Space AI Competition
+- **[3rd Place. Excellence prize]** 2024 INHA SW NET-Zero Co-Hackathon
+- **[Excellence prize]** 2024 SW-centered university AI and cloud service contest
+
+<br />
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:maengu1217@gmail.com">
